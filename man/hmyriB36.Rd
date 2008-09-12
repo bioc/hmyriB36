@@ -10,7 +10,7 @@ data(hmyriB36)
 \value{
 instance of GGBase smlSet class
 }
-\references{\url{www.hapmap.org}
+\references{\url{www.hapmap.org}}
 \author{Vince Carey <stvjc@channing.harvard.edu>}
 %\note{  }
 %
