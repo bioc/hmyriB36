@@ -18,7 +18,7 @@ instance of GGBase smlSet class
 %\seealso{  }
 %
 \examples{
-data(hmyriB36)
-hmyriB36
+library(GGtools)
+getSS("hmyriB36", "20")
 }
 \keyword{ models }
