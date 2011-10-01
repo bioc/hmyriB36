@@ -37,7 +37,7 @@ use \code{getSS("hmyriB36", [chrs])} to create an smlSet with all
 probes and selected chromosomes.  There is an instance of
 \code{\link[Biobase]{ExpressionSet-class}} named \code{ex} in the
 \code{data} folder of this package that will be united with genotype data using
-\code{\link[GGtools]{getSS}}.  }
+\code{\link[GGBase]{getSS}}.  }
 
 
 %\seealso{  }
