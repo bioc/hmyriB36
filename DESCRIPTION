@@ -4,7 +4,7 @@ Description: YRI hapmap + expression (GENEVAR), Build 36, r23a genotypes
 Version: 0.99.10
 Author: Vincent Carey <stvjc@channing.harvard.edu>
 Maintainer: Vincent Carey <stvjc@channing.harvard.edu>
-Depends: R (>= 2.7.0), methods, Biobase (>= 2.5.5), GGBase
+Depends: R (>= 2.13.0), methods, Biobase (>= 2.5.5), GGBase
 Suggests: GGtools, illuminaHumanv1.db
 License: Artistic-2.0
 biocViews: Statistics, ExperimentData
