@@ -1,5 +1,4 @@
 
 importFrom(Biobase, selectSome)
-importFrom(GGtools, getSS)
 
 import(tools)
