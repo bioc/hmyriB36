@@ -44,7 +44,7 @@ probes and selected chromosomes.  There is an instance of
 
 \examples{
 library(GGtools)
-hmyriB36 = getSS("hmyriB36", c("20", "21"))  # just 2 chromosomes
+hmyriB36 = getSS("hmyriB36", c("20"))  # just 1 chromosome
 exprs(hmyriB36)[1:4,1:4]
 as(smList(hmyriB36)[[1]][1:4,1:4], "character")
 library(GGtools)
