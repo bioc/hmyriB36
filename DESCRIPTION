@@ -1,7 +1,7 @@
 Package: hmyriB36
 Title: YRI hapmap + expression (GENEVAR), Build 36, r23a genotypes
 Description: YRI hapmap + expression (GENEVAR), Build 36, r23a genotypes
-Version: 1.10.0
+Version: 1.11.0
 Author: Vincent Carey <stvjc@channing.harvard.edu>
 Maintainer: Vincent Carey <stvjc@channing.harvard.edu>
 Depends: R (>= 2.13.0), methods, Biobase (>= 2.5.5), GGBase
